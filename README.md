@@ -7,11 +7,11 @@
 - APIs, behavior, and data model may change at any time.
 
 ## Downloads / Releases
-Release binaries are published in a separate repository:
+Release binaries are published in a separate repository:  
 
-- Release repository: https://github.com/qhashfoundation/qhash-sql-release  
-- Binary (v0.1.0): https://raw.githubusercontent.com/qhashfoundation/qhash-sql-release/refs/heads/main/qhash-sql-bin-v0.1.0
-- Checksums (v0.1.0): https://raw.githubusercontent.com/qhashfoundation/qhash-sql-release/refs/heads/main/SHA256SUMS-v0.1.0.txt
+- Release repository: [qhash-sql-release](https://github.com/qhashfoundation/qhash-sql-release)  
+- Binary (v0.1.0): [qhash-sql-bin-v0.1.0](https://raw.githubusercontent.com/qhashfoundation/qhash-sql-release/refs/heads/main/qhash-sql-bin-v0.1.0)
+- Checksums (v0.1.0): [SHA256SUMS-v0.1.0.txt](https://raw.githubusercontent.com/qhashfoundation/qhash-sql-release/refs/heads/main/SHA256SUMS-v0.1.0.txt)
   
 
 > Notes:
